@@ -1,0 +1,7 @@
+Enterprises generate thousands of hours of training videos, PDFs, and session notes, but employees and learners often struggle to pinpoint the exact slide or video segment relevant to their query. Traditional keyword search returns noisy or irrelevant matches, leading to wasted time, disengagement, and high support overhead.
+
+This project solves the problem by combining vector search with context-aware Large Language Models (LLMs) to deliver:
+
+Precise answers grounded in company learning content.
+Direct navigation to the exact video timestamp or slide.
+Reduced query resolution time and improved training ROI.
